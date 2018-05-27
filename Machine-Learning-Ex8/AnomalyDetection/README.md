@@ -23,7 +23,7 @@ The little ∼ or 'tilde' can be read as "distributed as."
 The Gaussian Distribution is parameterized by a mean and a variance.  
 Mu, or μ, describes the center of the curve, called the mean. The width of the curve is described by sigma, or σ, called the standard deviation.  
 The full function is as follows:  
-![formula](form.PNG)
+![formula](formula.PNG)
   
 We can estimate the parameter μ from a given dataset by simply taking the average of all the examples:  
 ![mu](mu.PNG)
