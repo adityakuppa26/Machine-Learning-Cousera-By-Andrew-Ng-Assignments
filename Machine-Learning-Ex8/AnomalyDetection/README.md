@@ -16,3 +16,4 @@ If our anomaly detector is flagging too many anomalous examples, then we need to
 **Gaussian Distribution**
 The Gaussian Distribution is a familiar bell-shaped curve that can be described by a function  N(μ,σ<sup>2</sup>).  
 Let x belongs to R. If the probability distribution of x is Gaussian with mean μ, variance σ<sup>2</sup>, then :  
+![representation](rep.png)
